@@ -1,2 +1,2 @@
-Git is a control system.
+Git is a control distributed system. 
 Git is a software in GPL.
